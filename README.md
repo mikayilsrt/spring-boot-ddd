@@ -1,8 +1,4 @@
-# spiralin.com
-![Application logo](https://avatars.githubusercontent.com/u/145035306?s=200&v=4)
-
-## Description
-> All-in-one dropshipping automation tool.
+# spring boot DDD
 
 ## Technologies used
 [<img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" width=70 height=70 />](https://dev.java/learn/language-basics/variables/)
@@ -24,8 +20,8 @@ Before you start, make sure you have the following items installed on your syste
 ## Installation
 1. Clone this repository :
    ```shell
-   git clone git@github.com:spiralinapp/spiralin.com.git
-   cd spiralin.com
+   git clone git@github.com:mikayilsrt/spring-boot-ddd.git
+   cd spring-boot-ddd
 
 2. Start the application with Docker :
    ```shell
