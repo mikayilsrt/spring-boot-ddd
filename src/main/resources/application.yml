@@ -1,0 +1,8 @@
+spring.data.mongodb.auto-index-creation: true
+
+application:
+  security:
+    jwt:
+      secret-key: "KMQfJxcY2aEm9PnVfAjswoZbyRAtA1hZMg/XQDjDzdjBkAw8WTLeOgh5K2Ey1f4XJ94g/nn81W1UNBBdFVyfldJJ8E5UTEgMAwBMB5QsFHdfa3mMzUbdqOD9H0T/cM6sXnzFQH3NGSW8qGvg9BHbQkyibkVLR7Q3Pe6SD3PVgnm0LuqwO7w5LnhBGHpraX3huzdfcjlVPfSjOCaoJoBQwAikphZrmWo2DBJdYtT/7cuNLcAocj7hrSxGGvHUQXMBfsush3DXeW8acyxfuoiZFiCEUQPPvK+8O6kNbgFsJMfVFJqY21t4RfozEzGHgVOMkEsNEbP/rYluqRe/XbfDoG49Y8Gbx1TR40FJTfs7Ucw="
+      expiration: 86400000 # a day
+      refresh: 604800000 # 7 days

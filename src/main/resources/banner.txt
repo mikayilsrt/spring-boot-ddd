@@ -1,0 +1,14 @@
+${AnsiColor.BLUE}                                                
+             ,--.              ,--.,--.         
+ ,---. ,---. `--',--.--.,--,--.|  |`--',--,--,  
+(  .-'| .-. |,--.|  .--' ,-.  ||  |,--.|      \ 
+.-'  `) '-' '|  ||  |  \ '-'  ||  ||  ||  ||  | 
+`----'|  |-' `--'`--'   `--`--'`--'`--'`--''--' 
+      `--'                                      
+${AnsiColor.YELLOW}
+---
+Name: ${application.name}
+Version: ${application.version}
+Spring Boot Version: ${spring-boot.version}
+---
+${AnsiColor.DEFAULT}
